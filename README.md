@@ -14,3 +14,6 @@ docker run --name rosetta -it rosetta
 ```bash
 ./run_pyrosetta_ver.sh input.fa .
 ```
+
+## Notes
+- You'll need to increase the resources limits in Docker's settings to support this image.
