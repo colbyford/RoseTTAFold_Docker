@@ -16,4 +16,5 @@ docker run --name rosetta -it rosetta
 ```
 
 ## Notes
+- This image requires a GPU that is compatible with CUDA 11.
 - You'll need to increase the resources limits in Docker's settings to support this image.
