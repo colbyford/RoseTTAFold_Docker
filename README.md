@@ -14,7 +14,6 @@ docker run --name rosetta -it rosetta
 
 ```bash
 ./run_pyrosetta_ver.sh input.fa .
-
 ```
 
 ## Notes
