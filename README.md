@@ -11,6 +11,7 @@ docker run --name rosetta -it rosetta
 ```
 
 ## Running the Monomer Structure Prediction in the Container
+
 ```bash
 ./run_pyrosetta_ver.sh input.fa .
 
