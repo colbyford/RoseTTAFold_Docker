@@ -1,5 +1,5 @@
 # RoseTTAFold Docker
-Docker image for the RoseTTAFold system from the UW Baker Lab.
+Docker container image for the RoseTTAFold system from the UW Baker Lab.
 
 <h3 align="right">Colby T. Ford, Ph.D.</h3>
 
