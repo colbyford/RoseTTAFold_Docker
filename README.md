@@ -11,6 +11,8 @@ docker run --name rosetta -it rosetta
 # docker exec -it rosetta /bin/bash
 ```
 
+This can take over an hour just to install all the dependencies and download the data.
+
 ## Running the Monomer Structure Prediction in the Container
 
 ```bash
