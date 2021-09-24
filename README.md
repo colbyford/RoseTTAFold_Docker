@@ -20,6 +20,7 @@ This can take over an hour just to install all the dependencies and download the
 ./run_pyrosetta_ver.sh input.fa .
 ```
 
+
 ## Notes
 - This image requires a GPU that is compatible with CUDA 11.
 - You will have to download the large amount of supporting data, either within the container or have it available on your local machine and mount the storage.
